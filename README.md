@@ -1,1 +1,3 @@
 # WeatherApp
+
+This WeatherApp is a user-friendly application that provides real-time weather reports for any city you enter. Simply type the name of the city in the search bar and click on the image beside to it to get detailed weather information. The app displays the current temperature, humidity, wind speed, and a weather icon representing conditions like clouds, rain, or clear skies, making it easy to stay updated with the latest weather conditions.
